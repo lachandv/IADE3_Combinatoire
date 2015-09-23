@@ -7,10 +7,10 @@ Le choix du solveur se porte sur glucose http://www.labri.fr/perso/lsimon/glucos
 Le problème choisis est le problème de planification de réseau routier (PESP) qui est un problème NP-Complet.
 
 ## TO-DO list
-- [ ] Tester glucose sur des instances SAT "normales"
-- [ ] Montrer que PESP est NP-Complet
-- [ ] Définir le modèle PESP -> SAT
-- [ ] Choisir la méthode de résolution (Heuristique)
+- [ ] Tester glucose sur des instances SAT "normales" (Jeremy)
+- [ ] Montrer que PESP est NP-Complet (Jeremy)
+- [ ] Définir le modèle PESP -> SAT (Valentin)
+- [ ] Choisir la méthode de résolution (Heuristique)(Valentin)
 - [x] Choisir les instances : http://mat.gsia.cmu.edu/COLOR/instances.html
 - [ ] Effectuer les tests
 - [ ] Faire le rapport
