@@ -11,19 +11,19 @@ Le problème choisis est le problème de planification de réseau routier (PESP)
 - [ ] Montrer que PESP est NP-Complet
 - [ ] Définir le modèle PESP -> SAT
 - [ ] Choisir la méthode de résolution (Heuristique)
-- [*] Choisir les instances : http://mat.gsia.cmu.edu/COLOR/instances.html
+- [x] Choisir les instances : http://mat.gsia.cmu.edu/COLOR/instances.html
 - [ ] Effectuer les tests
 - [ ] Faire le rapport
     - [ ] Le problème
     - [ ] Le  solveur
     - [ ] Le  modèle
-    - [ ] La  méethode
+    - [ ] La  méthode
     - [ ] Le benchmark
     - [ ] Les résultats
 - [ ] Faire la présentation
     - [ ] Le problème
     - [ ] Le  solveur
     - [ ] Le  modèle
-    - [ ] La  méethode
+    - [ ] La  méthode
     - [ ] Le benchmark
     - [ ] Les résultats
